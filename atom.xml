@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://moou.github.io</id>
+    <id>https://renmoou.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-30T01:34:52.943Z</updated>
+    <updated>2020-05-30T01:58:31.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://moou.github.io"/>
-    <link rel="self" href="https://moou.github.io/atom.xml"/>
+    <link rel="alternate" href="https://renmoou.github.io"/>
+    <link rel="self" href="https://renmoou.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://moou.github.io/images/avatar.png</logo>
-    <icon>https://moou.github.io/favicon.ico</icon>
+    <logo>https://renmoou.github.io/images/avatar.png</logo>
+    <icon>https://renmoou.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://moou.github.io/post/hello-gridea/</id>
-        <link href="https://moou.github.io/post/hello-gridea/">
+        <id>https://renmoou.github.io/post/hello-gridea/</id>
+        <link href="https://renmoou.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
